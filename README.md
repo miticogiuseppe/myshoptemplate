@@ -1,0 +1,2 @@
+# myshoptemplate
+My shop
